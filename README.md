@@ -6,7 +6,7 @@ An end-to-end data analytics project analyzing passenger journey volumes, season
 
 ## 📊 Live Interactive Dashboard
 
-🔗 **[Click Here to View Live Tableau Dashboard](INSERT_YOUR_TABLEAU_PUBLIC_URL_HERE)**
+🔗 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/views/TfLTransportEfficiencyNetworkPerformanceAnalysis/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ![TfL Dashboard Preview](Tfl_Dashboard.png)
 
