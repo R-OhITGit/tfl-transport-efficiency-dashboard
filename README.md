@@ -8,16 +8,13 @@ An end-to-end data analytics project transforming raw **Transport for London (Tf
 
 ---
 
-## 🚀 Interactive Dashboard Showcase
+## 📊 Live Interactive Dashboard
 
-> **Explore the full interactive dashboard on Tableau Public:**  
-> 👉 **[View Live Dashboard](Tfl_Dashboard.png)**
+🔗 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/views/TfLTransportEfficiencyNetworkPerformanceAnalysis/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-<p align="center">
-  <a href="https://public.tableau.com/views/TfLTransportEfficiencyNetworkPerformanceAnalysis/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="dashboard_preview.png" alt="TfL Dashboard Preview" width="90%" />
-  </a>
-</p>
+![TfL Dashboard Preview](Tfl_Dashboard.png)
+
+---
 
 ### 💡 Key Features at a Glance
 
